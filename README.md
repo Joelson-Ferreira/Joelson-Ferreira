@@ -1,16 +1,33 @@
-### Hi there 👋
+## Olá, eu sou Joelson Ferreira! 🤝
 
-<!--
-**Joelson-Ferreira/Joelson-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelsons/)
+[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joelson_sax/)
 
-Here are some ideas to get you started:
+## Descrição:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Amante de tecnologia, iniciou a carreira na área de infraestrutura de Redes de Computadores e no último ano tem ampliado as possibilidades através da área de desenvolvimento.
+
+Recentemente obteve duas aprovações em programas voltados para a área de desenvolvimento:
+
+- "Diversidade Tech" da Ada Tech com financiamento da Suzano para uma formação em "Python e Dados".
+
+    Ada Tech: 
+    [![Ada Tech](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/adatechbr)
+
+    Suzano: [![Suzano](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/suzano)
+
+- "Senac_<'CODE/>" do Senac RN formação de "Programador de sistemas Java".
+
+    Senac RN: [![Senac RN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/senac-rn)
+
+## Linguagens:
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+</div><br/>
+
+## Stats:
+
+![Joelson GitHub stats](https://github-readme-stats.vercel.app/api?username=Joelson-Ferreira&show_icons=true&theme=tokyonight)
