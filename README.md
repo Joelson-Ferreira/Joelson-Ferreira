@@ -1,4 +1,4 @@
-## Olá, eu sou Joelson Ferreira! 🤝
+## Olá, sou Joelson Ferreira! 🤝
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelsons/)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joelson_sax/)
@@ -9,14 +9,14 @@ Amante de tecnologia, iniciou a carreira na área de infraestrutura de Redes de 
 
 Recentemente obteve duas aprovações em programas voltados para a área de desenvolvimento:
 
-- "Diversidade Tech" da Ada Tech com financiamento da Suzano para uma formação em "Python e Dados".
+- "Diversidade Tech" da Ada Tech com financiamento da Suzano para formação em "Python e Dados".
 
     Ada Tech: 
     [![Ada Tech](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/adatechbr)
 
     Suzano: [![Suzano](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/suzano)
 
-- "Senac_<'CODE/>" do Senac RN formação de "Programador de sistemas Java".
+- "Senac_<'CODE/>" do Senac RN para formação em "Programador de sistemas Java".
 
     Senac RN: [![Senac RN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/senac-rn)
 
