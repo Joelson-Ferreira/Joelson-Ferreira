@@ -27,4 +27,5 @@ Ada Tech:
 
 ## Stats:
 
-![Joelson GitHub stats](https://github-readme-stats.vercel.app/api?username=Joelson-Ferreira&show_icons=true&theme=tokyonight)
+![Joelson GitHub stats](https://github-stats-extended.vercel.app/api?username=Joelson-Ferreira&show_icons=true&theme=tokyonight)
+
